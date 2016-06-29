@@ -5643,3 +5643,6 @@ table.datatable th:active {
 .force-hide-secondary-nav-pf .persistent-secondary .nav-pf-persistent-secondary {
   display: none !important;
 }
+.color-alt .card-pf-aggregate-status a {
+  color: #0099d3 !important;
+}
